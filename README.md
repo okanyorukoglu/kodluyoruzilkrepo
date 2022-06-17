@@ -27,3 +27,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![image](https://user-images.githubusercontent.com/25402435/174300046-89f18846-c4a2-47c7-9cb4-c18054021ed4.png)
+
